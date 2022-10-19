@@ -1,0 +1,27 @@
+{
+  "name": "puppeteer-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pravton/puppeteer-world.git"
+  },
+  "author": "pravton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pravton/puppeteer-world/issues"
+  },
+  "homepage": "https://github.com/pravton/puppeteer-world#readme",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "axios": "^0.27.2",
+    "exceljs": "^4.3.0",
+    "mocha": "^10.0.0",
+    "puppeteer": "^16.1.1",
+    "xml2js": "^0.4.23"
+  }
+}
